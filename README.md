@@ -1,4 +1,4 @@
-Jenkins Environment Dashboard Plugin
+Jenkins Environment Dashboard Plugin -- Updated by tanguy.de.lignieres@accenture.com on 11/06/2015
 =========================
 
 This Jenkins plugin creates a custom view which can be used as a dashboard to display what code release versions have been deployed to what test and production environments (or devices).
